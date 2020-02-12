@@ -8,7 +8,8 @@ This repository is for crawling the url for a specified depth.
 4. Rest endpoints are created as per the requirement
 5. A scheduler is created to pick the submitted, failed jobs and perform the required action on them.
 6. Code is documented.
-7. Could not put more time on the testcase as I had a prod issue(app recently went live) and had to call it done from my side. However, updatin and enhancements can be done.
+7. application.yml is not used extensivley but hard coded config can be put up there and used based on profile.
+8. Could not put more time on the testcase as I had a prod issue(app recently went live) and had to call it done from my side. However, updatin and enhancements can be done.
 
 Assumptions:
 
